@@ -10,5 +10,5 @@
 </dl>
 
 ---
-[Link to theme_overview](./theme_overview.html).
+[Link to theme_overview](./theme_overview.html).  
 [Link to another page](./subpage.html).
