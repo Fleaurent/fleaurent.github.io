@@ -110,6 +110,7 @@ The trained autoencoder model is evaluated according to its reconstruction perfo
 validation data  
 ![](./images/emft_optimum_threshold.png)  
 ![](./images/emft_optimum_threshold_confusion.png)  
+![](./images/emft_performance_parameters.png)  
 
 ---
 [back](./)
