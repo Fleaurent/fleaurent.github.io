@@ -12,21 +12,21 @@
 ---
 ## Academic Degrees
 ### Munich University of Applied Sciences   
-- Master of Science - Electrical Engineering (1.2)  
+- **Master of Science** - Electrical Engineering (1.2)  
 Major: Autonomous Systems  
-- Bachelor of Engineering - Electrical Engineering and Information Technology (1.7)  
+- **Bachelor of Engineering** - Electrical Engineering and Information Technology (1.7)  
 Major: Technical Computer Science  
 
 
 ---
 ## Projects
-[RGB-Cycle: Critical Mass Munich](https://github.com/Fleaurent/RGB_Cycle)  
-[SwiftUI Multi-platform App: RocKasse](./rocKasse.html)  
-[Scientific Employee: Fraunhofer](./fraunhofer2.html)  
-[Master Thesis: Fraunhofer](./fraunhofer1.html)  
-[Working Student: WeWash](./wewash.html)  
-[Bachelor Thesis: Volke](./volke.html)  
-[Practical Semester: SWM](./swm.html)  
+- [RGB-Cycle: Critical Mass Munich](https://github.com/Fleaurent/RGB_Cycle)  
+- [SwiftUI Multi-platform App: RocKasse](./rocKasse.html)  
+- [Scientific Employee: Fraunhofer](./fraunhofer2.html)  
+- [Master Thesis: Fraunhofer](./fraunhofer1.html)  
+- [Working Student: WeWash](./wewash.html)  
+- [Bachelor Thesis: Volke](./volke.html)  
+- [Practical Semester: SWM](./swm.html)  
 
 
 ---
