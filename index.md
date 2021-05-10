@@ -55,11 +55,12 @@ Major: Technical Computer Science
 - Cloud Services for Big Data:  
   AWS (S3, Sagemaker, MQTT, ...), GCP  
 - Multi-Platform:  
-  Windows, Mac, Linux, Ubuntu Server, Raspberry Pi  
+  Windows, Mac, Linux (Ubuntu Server, Raspberry Pi)  
 - Terminal:  
   grep, regex, tail, >>, ...
 - Unit Tests: Pytest
 - APIs: REST, Flask  
+- IDE: VSCode  
 - Languages:  
   Python, Java, C/C++, Swift(UI)  
 

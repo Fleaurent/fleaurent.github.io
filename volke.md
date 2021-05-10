@@ -4,12 +4,14 @@ layout: default
 
 # Bachelor Thesis
 **2017, 7. Semester, Bachelor Electrical Engineering:**  
+
 Bachelorarbeit bei Volke Consulting Engineers GmbH & Co. Planungs KG  
 
 ![](./images/volke_logo.png)  
 
 ---
 **Aufgabengebiet:**  
+
 &rarr; Embedded Systems  
 
 ![](./images/volke_zeugnis.png)  
