@@ -31,32 +31,37 @@ Major: Technical Computer Science
 
 ---
 ## Skills
-### Advanced
-- Python
+
+- **Python:**  
+  Modern Python Developer Toolkit (pyenv, venv, pytest, sphinx, pip, requirements.txt, ...)
 - **Data Science:**  
   Time Series Data (pandas, sktime)  
 - **Machine & Deep Learning:**  
   tensorflow, keras, scikit-learn  
-
-### Intermediate
 - **Embedded Systems/IoT:**  
-  C, STM32, MQTT, tflite-micro
+  C, STM32, MQTT, Tiny Machine Learning (tflite-micro, CubeAI)  
 - **App Development:**  
   SwiftUI, iOS/multi-platform  
 - **Electrical Engineering:**  
   circuits and systems, pcb design,
 
-### IT Background
-- Docker
+---
+## IT Background
 - Git
-- Cloud Services: AWS, GCP (Storage, Sagemaker, MQTT...)  
+- Docker
+- CI/CD
 - Database:  
   InfluxDB (+Grafana for Visualizations), SQLite, MySQL 
-- Ubuntu Server
-- Raspberry Pi
+- Cloud Services for Big Data:  
+  AWS (S3, Sagemaker, MQTT, ...), GCP  
+- Multi-Platform:  
+  Windows, Mac, Linux, Ubuntu Server, Raspberry Pi  
+- Terminal:  
+  grep, regex, tail, >>, ...
 - Unit Tests: Pytest
 - APIs: REST, Flask  
-- Languages: Python, Java, C/C++, Swift  
+- Languages:  
+  Python, Java, C/C++, Swift(UI)  
 
 
 ---
