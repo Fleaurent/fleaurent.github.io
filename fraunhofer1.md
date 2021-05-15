@@ -106,8 +106,7 @@ performance of the trained autoencoder model
 The trained autoencoder model is evaluated according to its reconstruction performance based on normal and anomalous input data  
 ![](./images/emft_reconstruction_error.png)  
 ![](./images/emft_reconstruction_error_density.png)  
-&rarr; The determined optimum F-Beta threshold is applied to classify normal and anomalous
-validation data  
+&rarr; The optimum F-Beta threshold is determined using validation data and applied to classify normal and anomalous test data  
 ![](./images/emft_optimum_threshold.png)  
 ![](./images/emft_optimum_threshold_confusion.png)  
 ![](./images/emft_performance_parameters.png)  
