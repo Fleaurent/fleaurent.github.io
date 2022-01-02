@@ -2,12 +2,13 @@
 
 <dl>
 <dt>Name</dt>
-<dd>Florens Fraidling</dd>
+<dd>Fleaurent</dd>
 <dt>Age</dt>
-<dd>26</dd>
+<dd>27</dd>
 <dt>Residency</dt>
 <dd>Munich, Germany</dd>
 </dl>
+
 
 ---
 ## Academic Degrees
@@ -21,7 +22,7 @@ Major: Technical Computer Science
 ---
 ## Projects
 - [RGB-Cycle: Critical Mass Munich](https://github.com/Fleaurent/RGB_Cycle)  
-- [SwiftUI Multi-platform App: RocKasse](./rocKasse.html)  
+- [Roc-Stats: SwiftUI iOS App for RocKasse](./rocKasse.html)  
 - [Scientific Employee: Fraunhofer](./fraunhofer2.html)  
 - [Master Thesis: Fraunhofer](./fraunhofer1.html)  
 - [Working Student: WeWash](./wewash.html)  
@@ -39,30 +40,34 @@ Major: Technical Computer Science
 - **Machine & Deep Learning:**  
   tensorflow, keras, scikit-learn  
 - **Embedded Systems/IoT:**  
-  C, STM32, MQTT, Tiny Machine Learning (tflite-micro, CubeAI)  
+  C, STM32, MQTT, LWIP, Tiny Machine Learning: tflite-micro (C++), STMCubeAI  
 - **App Development:**  
-  SwiftUI, iOS/multi-platform  
+  SwiftUI, iOS  
 - **Electrical Engineering:**  
-  circuits and systems, pcb design,
+  Ccircuits and Systems, PCB Design  
+
 
 ---
 ## IT Background
-- Git
-- Docker
-- CI/CD
+- Multi-Platform User:  
+  Windows, Mac, Linux (Ubuntu Server, Raspberry Pi, ...)  
+- Main Languages:  
+  Python, C/C++, Swift(UI)  
+- IDE: **VSCode**, XCode, Keil µVision
+- Git: GitLab (work), GitHub (private), terminal > GUI  
+- CI/CD: mainly GitLab CI, some GitHub Actions  
+- Docker: Building Custom Images to bundle applications, Docker Compose, ...
 - Database:  
-  InfluxDB (+Grafana for Visualizations), SQLite, MySQL 
+  InfluxDB for time series data (+Grafana for Visualizations), SQLite, MySQL  
 - Cloud Services for Big Data:  
-  AWS (S3, Sagemaker, MQTT, ...), GCP  
-- Multi-Platform:  
-  Windows, Mac, Linux (Ubuntu Server, Raspberry Pi)  
-- Terminal:  
-  grep, regex, tail, >>, ...
-- Unit Tests: Pytest
-- APIs: REST, Flask  
-- IDE: VSCode  
-- Languages:  
-  Python, Java, C/C++, Swift(UI)  
+  AWS (S3, Sagemaker, MQTT, ...), Azure  
+- Terminals:  
+  Powershell, Bash, Zsh, ...  
+- Documentation: Sphinx, Doxygen  
+- APIs: REST using Flask  
+- Unit Tests: Pytest  
+- Netzpolitik
+- hack everyting to see how its done :)  
 
 
 ---
