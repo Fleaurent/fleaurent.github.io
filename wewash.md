@@ -2,25 +2,30 @@
 layout: default
 ---
 
-# Working Student
-**2018, Master Electrical Engineering:**   
+# 2018 Master Electrical Engineering: Working Student
 
-Werkstudent bei WeWash GmbH, eine Tochter der BSH Hausgeräte GmbH  
-![](./images/wewash_logo.png)  
+[@WeWash GmbH](https://www.wewash.de/)
+![wewash_logo](./images/wewash_logo.png)  
 
----
-**Aufgabengebiet:**  
+Working student at WeWash GmbH, a subsidiary of BSH Hausgeräte GmbH
 
-&rarr; Embedded Systems  
+- [1. Content](#1-content)
+- [2. Reference](#2-reference)
 
-![](./images/wewash_zeugnis.png)  
+___
 
+## 1. Content
 
----
-**Inhalt:**  
+Embedded Software Development for Home Appliances:  
+Communication on the BSH communication bus "DBUS-II" via GSM data connection using Cellular IOT Boards  
+![wewash_project1](./images/wewash_project1.jpg)  
 
-Kommunikation auf den BSH Kommunikationsbus „DBUS-II“ über GSM Datenverbindung mit Cellular IOT Boards  
-![](./images/wewash_project1.jpg)  
+___
 
----
+## 2. Reference
+
+![wewash_zeugnis](./images/wewash_zeugnis.png)  
+
+___
+
 [back](./)

@@ -3,72 +3,87 @@
 <dl>
 <dt>Name</dt>
 <dd>Fleaurent</dd>
-<dt>Age</dt>
-<dd>27</dd>
 <dt>Residency</dt>
 <dd>Munich, Germany</dd>
 </dl>
 
+- [1. Academic Degrees](#1-academic-degrees)
+- [2. Projects](#2-projects)
+- [3. Skills](#3-skills)
+- [4. IT Background](#4-it-background)
 
----
-## Academic Degrees
-### Munich University of Applied Sciences   
+___
+
+## 1. Academic Degrees
+
+[@Munich University of Applied Sciences](https://www.hm.edu/)  
+[@Department of Electrical Engineering and Information Technology](https://ee.hm.edu/)  
+
 - **Master of Science** - Electrical Engineering (1.2)  
 Major: Autonomous Systems  
 - **Bachelor of Engineering** - Electrical Engineering and Information Technology (1.7)  
 Major: Technical Computer Science  
 
+___
 
----
-## Projects
-- [RGB-Cycle: Critical Mass Munich](https://github.com/Fleaurent/RGB_Cycle)  
+## 2. Projects
+
+- [2020-Today: Scientific Employee @Fraunhofer EMFT](./fraunhofer2.html)  
+- [2019 Master Electrical Engineering: Master Thesis @Fraunhofer EMFT](./fraunhofer1.html)  
+- [2018 Master Electrical Engineering: Working Student @WeWash](./wewash.html)  
+- [2017 Bachelor Electrical Engineering: Bachelor Thesis @Volke](./volke.html)  
+- [2016 Bachelor Electrical Engineering: Practical Semester @SWM](./swm.html)  
+
+other projects:  
+
 - [Roc-Stats: SwiftUI iOS App for RocKasse](./rocKasse.html)  
-- [Scientific Employee: Fraunhofer](./fraunhofer2.html)  
-- [Master Thesis: Fraunhofer](./fraunhofer1.html)  
-- [Working Student: WeWash](./wewash.html)  
-- [Bachelor Thesis: Volke](./volke.html)  
-- [Practical Semester: SWM](./swm.html)  
+- [RGB-Cycle: Critical Mass Munich](https://github.com/Fleaurent/RGB_Cycle)  
 
+___
 
----
-## Skills
+## 3. Skills
 
-- **Python:**  
-  Modern Python Developer Toolkit (pyenv, venv, pytest, sphinx, pip, requirements.txt, ...)
-- **Data Science:**  
-  Time Series Data (pandas, sktime)  
-- **Machine & Deep Learning:**  
-  tensorflow, keras, scikit-learn  
+- **Modern Python Developer Toolkit:**  
+  pyenv, venv, conda, pip, pytest, sphinx, requirements.txt, ...  
 - **Embedded Systems/IoT:**  
-  C, STM32, MQTT, LWIP, Tiny Machine Learning: tflite-micro (C++), STMCubeAI  
+  C/C++, STM32, MQTT, LWIP, tflite-micro, CubeAI, STMCubeIDE/CubeMX/Keil uVision, FreeRTOS/KeilRTX  
+- **Electrical Engineering:**  
+  PCB Design (Altium), PCB assembly (SMD+through-hole mounted), Reading Schematics, Simulating Circuits (LTSpice), Analyzing Signals (Oscilloscope, Multimeter), ...  
+- **MLOps:**  
+  GitLab CI, GitHub Actions, Docker, Docker Compose, ssh, server administration (ubuntu server), ...  
+- **Data Science:**  
+  Time Series Data (pandas, numpy, sktime)  
+- **Machine&Deep Learning:**  
+  tensorflow, keras, scikit-learn, label-studio, tinyML, ...
 - **App Development:**  
   SwiftUI, iOS  
-- **Electrical Engineering:**  
-  Ccircuits and Systems, PCB Design  
 
+___
 
----
-## IT Background
+## 4. IT Background
+
 - Multi-Platform User:  
   Windows, Mac, Linux (Ubuntu Server, Raspberry Pi, ...)  
 - Main Languages:  
   Python, C/C++, Swift(UI)  
-- IDE: **VSCode**, XCode, Keil µVision
+- IDEs: **VSCode**, XCode, STMCubeIDE, Keil µVision
 - Git: GitLab (work), GitHub (private), terminal > GUI  
-- CI/CD: mainly GitLab CI, some GitHub Actions  
+- CI/CD: GitLab CI, GitHub Actions  
 - Docker: Building Custom Images to bundle applications, Docker Compose, ...
 - Database:  
   InfluxDB for time series data (+Grafana for Visualizations), SQLite, MySQL  
 - Cloud Services for Big Data:  
-  AWS (S3, Sagemaker, MQTT, ...), Azure  
+  Azure, AWS (S3, Sagemaker, MQTT, ...)  
 - Terminals:  
-  Powershell, Bash, Zsh, ...  
+  Bash, Zsh, WSL, ...  
 - Documentation: Sphinx, Doxygen  
-- APIs: REST using Flask  
 - Unit Tests: Pytest  
-- Netzpolitik
-- hack everyting to see how its done :)  
+- APIs: REST using Flask  
+- hack everything :)  
+  - [hackerethics](https://www.ccc.de/en/hackerethics)  
+  - [netzpolitik.org](https://netzpolitik.org/)  
+  - [logbuch-netzpolitik](https://logbuch-netzpolitik.de/)  
 
+___
 
----
-[Link to theme_overview](./theme_overview.html)  
+[theme_overview](./theme_overview.html)  
