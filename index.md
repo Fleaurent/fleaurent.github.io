@@ -19,16 +19,18 @@ ___
 [@Munich University of Applied Sciences](https://www.hm.edu/)  
 [@Department of Electrical Engineering and Information Technology](https://ee.hm.edu/)  
 
-- **Master of Science** - Electrical Engineering (1.2)  
+- **2019 Master of Science - Electrical Engineering (1.2)**  
 Major: Autonomous Systems  
-- **Bachelor of Engineering** - Electrical Engineering and Information Technology (1.7)  
+- **2017 Bachelor of Engineering - Electrical Engineering and Information Technology (1.7)**  
 Major: Technical Computer Science  
 
 ___
 
 ## 2. Projects
 
-- [2020-Today: Scientific Employee @Fraunhofer EMFT](./fraunhofer2.html)  
+click on the project see more details:  
+
+- [2020-Today Scientific Employee: @Fraunhofer EMFT](./fraunhofer2.html)  
 - [2019 Master Electrical Engineering: Master Thesis @Fraunhofer EMFT](./fraunhofer1.html)  
 - [2018 Master Electrical Engineering: Working Student @WeWash](./wewash.html)  
 - [2017 Bachelor Electrical Engineering: Bachelor Thesis @Volke](./volke.html)  
@@ -66,10 +68,14 @@ ___
   Windows, Mac, Linux (Ubuntu Server, Raspberry Pi, ...)  
 - Main Languages:  
   Python, C/C++, Swift(UI)  
-- IDEs: **VSCode**, XCode, STMCubeIDE, Keil µVision
-- Git: GitLab (work), GitHub (private), terminal > GUI  
-- CI/CD: GitLab CI, GitHub Actions  
-- Docker: Building Custom Images to bundle applications, Docker Compose, ...
+- IDEs:  
+  **VSCode**, XCode, STMCubeIDE, Keil µVision
+- Git:  
+  GitLab (work), GitHub (private), terminal > GUI  
+- CI/CD:  
+  GitLab CI, GitHub Actions  
+- Docker:  
+  Building Custom Images to bundle applications, Docker Compose, ...
 - Database:  
   InfluxDB for time series data (+Grafana for Visualizations), SQLite, MySQL  
 - Cloud Services for Big Data:  
@@ -77,9 +83,11 @@ ___
 - Terminals:  
   Bash, Zsh, WSL, ...  
 - Documentation: Sphinx, Doxygen  
-- Unit Tests: Pytest  
-- APIs: REST using Flask  
-- hack everything :)  
+- Unit Tests:  
+  Pytest  
+- APIs:  
+  REST i.e. Flask  
+- Hack everything :)  
   - [hackerethics](https://www.ccc.de/en/hackerethics)  
   - [netzpolitik.org](https://netzpolitik.org/)  
   - [logbuch-netzpolitik](https://logbuch-netzpolitik.de/)  

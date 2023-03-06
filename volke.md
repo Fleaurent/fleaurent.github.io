@@ -2,24 +2,18 @@
 layout: default
 ---
 
-# 2017 Bachelor Electrical Engineering: Bachelor Thesis  
+# 2017 Bachelor Thesis: Update of the Debug Environment for APIX-Driver  
 
 [@Volke Consulting Engineers GmbH & Co. Planungs KG](https://www.volke-muc.de/)  
 ![volke_logo](./images/volke_logo.png)  
 
-- [1. Topic: "Update of the Debug Environment for APIX-Driver"](#1-topic-update-of-the-debug-environment-for-apix-driver)
-- [2. Abstract](#2-abstract)
+- [1. Abstract](#1-abstract)
+- [2. Content](#2-content)
 - [3. Reference](#3-reference)
 
 ___
 
-## 1. Topic: "Update of the Debug Environment for APIX-Driver"  
-
-Embedded Software and Hardware Development for the Automotive Industry  
-
-___
-
-## 2. Abstract
+## 1. Abstract
 
 The current debug environment of the display (APIX) driver differs significantly from the
 HeadUnit 2018 system. The components are out of date and meet no longer today's
@@ -41,10 +35,16 @@ for an updated test station of the APIX drivers.
 
 ___
 
+## 2. Content  
+
+Embedded Software and Hardware development for the Automotive Industry  
+(Confidential) :/  
+
+___
+
 ## 3. Reference
 
 ![volke_zeugnis](./images/volke_zeugnis.png)  
-
 
 ___
 
