@@ -82,7 +82,7 @@ ___
   Azure, AWS (S3, Sagemaker, MQTT, ...)  
 - Terminals:  
   Bash, Zsh, WSL, ...  
-- Documentation:
+- Documentation:  
   Sphinx, Doxygen  
 - Unit Tests:  
   Pytest  
